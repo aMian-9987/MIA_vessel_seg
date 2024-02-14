@@ -6,12 +6,12 @@ pytorch 1.8.0
 torchvision 0.9.0
 Monai Library and some other computational packages.\
 
-## Datasets
+### Datasets
 
 * 3D-ircadb dataset can be found at: https://www.ircad.fr/research/data-sets/liver-segmentation-3d-ircadb-01/
 * Our dataset will be release after accept.
 
-## Training
+### Training
 
 Commands for training on the dataset
 ```
@@ -21,7 +21,7 @@ Commands for pretrain on the dataset
 ```
 python pretrain.py
 ```
-## Testing
+### Testing
 
 Commands for training on the Synapse dataset
 ``` 
