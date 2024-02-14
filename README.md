@@ -1,4 +1,4 @@
-# Official Implement of Paper: A novel hepatic vein/portal vein segmentation model for diagnosis and preoperative liver surgical planning
+## Official Implement of Paper: A novel hepatic vein/portal vein segmentation model for diagnosis and preoperative liver surgical planning
 This repo is the official implementation for our paper submitted to Medical Image Analysis.
 ### Requirements
 python 3.6
